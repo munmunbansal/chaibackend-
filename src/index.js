@@ -1,6 +1,8 @@
 // require('dotenv').config({path: './env'})  
 //this one hamare code ki consistency ko kharab karta h - resolve like below
 import dotenv from "dotenv"
+import {app} from './app.js';
+
 
 // import mongoose from "mongoose";
 // import {DB_NAME} from "./constants";
